@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNpdWFxZTF3OXN4dG1scjVjM2ZzZWNpZGRlMWd6dzhqYWN4ZDNocCZlcD12aV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iMm2j/giphy.gif" width="150">
   
   # **Parth Gupta**
   
@@ -60,8 +59,8 @@ My passion for problem-solving extends to the competitive programming arena, whe
   </a>
 </div>
 
-- **🧠 Total Problems Solved:** 200+
-- **🟢 Easy:** 50+ | **🟠 Medium:** 120+ | **🔴 Hard:** 30+
+- **🧠 Total Problems Solved:** 300+
+- **🟢 Easy:** 75+ | **🟠 Medium:** 175+ | **🔴 Hard:** 50+
 - **🔧 Key Strengths:** Arrays, Strings, Two Pointers, Sliding Window, Hashing, Recursion.
 - **🌱 Currently Mastering:** Dynamic Programming, Trees, and Graph Algorithms.
 
@@ -74,7 +73,7 @@ Here are some of the key projects I've architected and built from concept to dep
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 CommingSoon.in</h3>
+      <h3>🌐 AlertCode.in</h3>
       <p>A live, production-grade IT consulting platform. The challenge was to create a secure, multi-tenant system for an IT consulting business. I architected and developed a full-stack solution with a robust backend, secure JWT-based authentication, role-based access control for admins, and efficient media management with Cloudinary.</p>
       <strong>Tech Used:</strong>
       <p>
@@ -85,7 +84,7 @@ Here are some of the key projects I've architected and built from concept to dep
         <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
       </p>
       <a href="https://github.com/ParthGupta84616/Alertcode.in"><img src="https://img.shields.io/badge/--181717?style=flat&logo=github&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
+      <a href="https://alertcode.in/"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
     </td>
     <td width="50%">
       <h3>🚚 Gaadi Market</h3>
@@ -98,7 +97,7 @@ Here are some of the key projects I've architected and built from concept to dep
         <img src="https://img.shields.io/badge/-AI-blueviolet?style=flat" />
       </p>
       <a href="https://github.com/ParthGupta84616/Gaadi-Market"><img src="https://img.shields.io/badge/--181717?style=flat&logo=github&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
+      <a href="https://gaadimarket.in/"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -113,7 +112,7 @@ Here are some of the key projects I've architected and built from concept to dep
         <img src="https://img.shields.io/badge/-REST_API-orange?style=flat" />
       </p>
       <a href="https://github.com/ParthGupta84616/ShipWise"><img src="https://img.shields.io/badge/--181717?style=flat&logo=github&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
+      <a href="https://github.com/ParthGupta84616/ShipWise_Backend"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
     </td>
     <td width="50%">
       <h3>👥 Social Gathering</h3>
@@ -124,7 +123,7 @@ Here are some of the key projects I've architected and built from concept to dep
         <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
       </p>
       <a href="https://github.com/ParthGupta84616/Social-Gathering"><img src="https://img.shields.io/badge/--181717?style=flat&logo=github&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
+      <a href="https://patelsanghmp.com/"><img src="https://img.shields.io/badge/-Live_Demo-brightgreen?style=flat"></a>
     </td>
   </tr>
 </table>
